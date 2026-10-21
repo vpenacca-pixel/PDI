@@ -1,0 +1,3 @@
+[submodule "canvas_analitica"]
+	path = canvas_analitica
+	url = https://github.com/gmmorales/canvas_analitica
